@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @userdanixdev
+- 👋 Hi, I’m @userdanixdev !!
 - 👀 I’m interested in learn programming language, add knowledge and carry out large projects
-- 🌱 I’m currently learning :'R' - Specific language for data analysis -
+- 🌱 I’m currently learning in 'R' - Specific language for data analysis -
 - 💞️ I’m looking to collaborate on projects to add to my resume
 - 📫 How to reach me in ' f.daniel.m@gmail.com ' THANKS!
 
