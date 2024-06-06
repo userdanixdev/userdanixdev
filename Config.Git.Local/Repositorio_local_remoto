@@ -7,3 +7,14 @@
 5. git branch -M main
 6. git remote add origin "link do repositorio criado no github com o mesmo nome criado na pasta"
 7. git push -u origin main
+
+
+## Com uso do VSCODE:
+
+1. Abra um terminal Git Bash no VSCode
+2. Abra o arquivo em que esta trabalhando no Vscode e salve constantemente.
+3. No terminal do VSCOde : git status  ( Irá verificar as modificações feitas localmente )
+4. git add . 
+5. git commit -m "Alterações"
+6. git push origin main  
+
