@@ -1,0 +1,10 @@
+No terminal do Git Bash podemos iniciar as configurações inicias locais:
+  git config --global user.name "seu_nome"
+
+git config --global user.email "seu_email@..."
+
+## Para verificar as configurações :
+  git config --list
+
+
+
