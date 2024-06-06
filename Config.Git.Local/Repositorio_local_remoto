@@ -1,0 +1,9 @@
+# Para criar um repositorio local e colocar no repositório remoto:
+
+1. Crie uma pasta em sua máquina local com o nome 'Repositorio_Git'
+2. Dentro da pasta abra o git Bash e digite: 
+3.'git init' -> git add .
+4. Depois 'git commit -m "Primeiro commit"
+5. git branch -M main
+6. git remote add origin "link do repositorio criado no github com o mesmo nome criado na pasta"
+7. git push -u origin main
