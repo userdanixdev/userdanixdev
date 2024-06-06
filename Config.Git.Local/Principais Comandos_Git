@@ -24,6 +24,20 @@
 
 12. git push [remote] [branch] -->> Envia os commits locais para o repositório remoto
 
+13. git remote -v -->> Lista os repositórios remotos configurados associados ao projeto
+
+14. git fetch -> Recupera as ultimas alterações do repositorio remoto, mas não faz merge automaticamente
+
+15. git reset -> Desfaz as alterações no arquivo especificado, removendo do indice.
+
+16. git rm [arquivo] -> Remove o arquivo do repositorio e inclui no próximo commit
+
+17. git diff -> Mostras as diferenças entre as alterações que ainda não foram adicionadas ao índice.
+
+18. git remote add [nome-remoto][URL] -> Adicionar um repositorio remoto com um nome especifico
+
+19. git push add origin main -> Executado para efetuar push das alterações locais para o repositorio remoto (online)
+
               
 
 
