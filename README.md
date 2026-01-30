@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-database-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-lightweight-bluegrey)
 ![SparkSQL](https://img.shields.io/badge/spark-SQL-orange)
+![ETL](https://img.shields.io/badge/ETL-data%20pipelines-orange)
+![Pipelines](https://img.shields.io/badge/Data%20Pipelines-automation-blue)
 ![Status](https://img.shields.io/badge/status-educational-green)
 
 
