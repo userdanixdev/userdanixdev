@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 🧰 Tech Stack Badges
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Python](https://img.shields.io/badge/python-POO+-blue)
 ![Spark](https://img.shields.io/badge/spark-pyspark-orange)
 ![Pandas](https://img.shields.io/badge/pandas-data%20analysis-lightgrey)
 ![R](https://img.shields.io/badge/R-statistics-blueviolet)
