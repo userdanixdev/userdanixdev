@@ -8,3 +8,47 @@
 userdanixdev/userdanixdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+🧰 Tech Stack Badges
+
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Spark](https://img.shields.io/badge/spark-pyspark-orange)
+![Pandas](https://img.shields.io/badge/pandas-data%20analysis-lightgrey)
+![R](https://img.shields.io/badge/R-statistics-blueviolet)
+![Status](https://img.shields.io/badge/status-educational-green)
+![Matplotlib](https://img.shields.io/badge/matplotlib-visualization-yellow)
+![BigData](https://img.shields.io/badge/big%20data-processing-red)
+![DataEngineer](https://img.shields.io/badge/data%20engineer-pipelines-brightgreen)
+![Hadoop](https://img.shields.io/badge/hadoop-HDFS-yellowgreen)
+![GitHub](https://img.shields.io/badge/github-version%20control-black)
+![VSCode](https://img.shields.io/badge/IDE-VS%20Code-blue)
+![Status](https://img.shields.io/badge/status-educational-green)
+
+
+
+🛠️ Technologies & Tools
+
+- Here are some of the technologies I currently work with:
+
+🚀 Data & Analytics
+
+- Python 🐍
+- PySpark (Big Data & Distributed Processing)
+- Pandas (Data Analysis & Manipulation)
+- R (Statistical Analysis & Data Visualization)
+
+🗄️ Data & Processing
+
+- Apache Spark
+- Hadoop (HDFS – environment setup & usage)
+- Parquet / Delta Lake
+
+📊 Data Skills
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Aggregations & Time Series Analysis
+- Data Pipelines (ETL)
+
+📌 Current Focus
+
+Building scalable data pipelines, working with large datasets using PySpark and improving performance and data modeling for analytics.
