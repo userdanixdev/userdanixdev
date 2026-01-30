@@ -14,15 +14,17 @@ You can click the Preview link to take a look at your changes.
 ![Spark](https://img.shields.io/badge/spark-pyspark-orange)
 ![Pandas](https://img.shields.io/badge/pandas-data%20analysis-lightgrey)
 ![R](https://img.shields.io/badge/R-statistics-blueviolet)
-![Status](https://img.shields.io/badge/status-educational-green)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-visualization-yellow)
 ![BigData](https://img.shields.io/badge/big%20data-processing-red)
 ![DataEngineer](https://img.shields.io/badge/data%20engineer-pipelines-brightgreen)
 ![Hadoop](https://img.shields.io/badge/hadoop-HDFS-yellowgreen)
 ![GitHub](https://img.shields.io/badge/github-version%20control-black)
 ![VSCode](https://img.shields.io/badge/IDE-VS%20Code-blue)
+![SQL](https://img.shields.io/badge/SQL-querying-blue)
+![MySQL](https://img.shields.io/badge/MySQL-database-blue)
+![SQLite](https://img.shields.io/badge/SQLite-lightweight-bluegrey)
+![SparkSQL](https://img.shields.io/badge/spark-SQL-orange)
 ![Status](https://img.shields.io/badge/status-educational-green)
-
 
 
 🛠️ Technologies & Tools
