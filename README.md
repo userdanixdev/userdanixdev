@@ -19,7 +19,7 @@ My goal is to keep improving my technical skills, build real-world projects and 
 
 ---
 
-## 🧰 Tech Stack Badges
+## 🧰 Tech Stack :
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/Python-OOP-blue)
